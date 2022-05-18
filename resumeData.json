@@ -14,7 +14,7 @@
       "state":"Selangor",
       "zip": "47300"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.chin0813.github.io",
     "resumedownload":"Resume - Chin Yi Xiang.pdf",
     "social":[
       {
@@ -77,24 +77,24 @@
     ],
     "skills":[
       {
+        "name":"Machine Learning",
+        "level":"70%"
+      },
+      {
+        "name":"Natural Language Processing",
+        "level":"70%"
+      },
+      {
         "name":"Python",
-        "level":"70%"
+        "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
-      },
-      {
-        "name":"NodeJS",
-        "level":"60%"
-      },
-      {
-        "name":"CSS",
-        "level":"40%"
+        "name":"Javascript",
+        "level":"80%"
       }, 
       {
-        "name":"VBA",
-        "level":"40%"
+        "name":"Mathematics and Problem Solving",
+        "level":"70%"
       }
     ]
   },
