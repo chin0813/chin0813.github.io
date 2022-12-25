@@ -57,9 +57,15 @@
     ],
     "work":[
       {
+        "company": "Intel Malaysia Sdn. Bhd.",
+        "title": "AI Software Development Engineer",
+        "years": "August 2022 - Now",
+        "description": "• Ensuring smooth deliveries of AI functions and frontend/backend functions to support AI functions.\n• Enabling internal developers and external functional developers to develop AI functions to be integrated into platform.\n• Drive integrations of functions and internal IP into platform.\n• Plan functional development focusing in solving usecases and customer needs.\n\nTools used: Python, FastAPI, ReactJS, Pyspark, NLTK"
+      },
+      {
         "company":"SmartB Solutions Sdn. Bhd. ",
         "title":"Backend Developer",
-        "years":"June 2021 – Now",
+        "years":"June 2021 – August 2022",
         "description":"Develop custom Modules to Fulfill Customer Requirement, API Integration with 3rd Party Platforms, Provide Technical Support for Team.\n\nTools used: Python, NodeJS, ReactJS, React Native, Expo"
       },
       {
